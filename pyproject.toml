@@ -2,7 +2,7 @@
 name = "tasks-10-1"
 version = "0.1.0"
 description = ""
-authors = ["kirill_barkhatov <kirill_barkhatov@hotmail.com>"]
+authors = ["kirill_barkhatov <k.s.barkhatov@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
